@@ -1,2 +1,2 @@
-- **Языки программирования:** Python, C++, TypeScript, JavaScript, HTML, CSS
+- **Языки программирования:** Python, C++, TypeScript, JavaScript, HTML, CSS, С#
 - **Инструменты:** Linux, Unity, Docker
