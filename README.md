@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥷 Анонимность!
+#  Анонимность!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=Hello%2C+World!;Backend+%7C+GameDev+%7C+Security;Always+learning+something+new" alt="Typing SVG" />
 
