@@ -1,1 +1,2 @@
-Занимаюсь 
+- **Языки программирования:** Python, C++, TypeScript, JavaScript, HTML, CSS
+- **Инструменты:** Linux, Unity, Docker
